@@ -56,8 +56,8 @@ st.markdown("""
     </p>
     <p style='color:#7AAAC8; margin:0;
               font-size:0.85rem;'>
-        ASM Student Chapter Bengaluru |
-        IEEE Research Project 2025
+       
+        IEEE Research Project 2026
     </p>
 </div>
 """, unsafe_allow_html=True)
@@ -79,7 +79,7 @@ optimize CNC machining energy consumption.
 
 **Research Team:**
 Kotresh · Aurko · Parv
-ASM Student Chapter, Bengaluru
+
 """)
 st.sidebar.markdown("---")
 st.sidebar.markdown("**Model Performance**")
