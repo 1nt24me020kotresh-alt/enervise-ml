@@ -1,6 +1,6 @@
 # EnerVise — CNC Energy Optimization Web App
-# Kotresh, Aurko, Parv | ASM Student Chapter Bengaluru
-# IEEE Research Project 2025
+
+# IEEE Research Project 2026
 
 import streamlit as st
 import pickle
