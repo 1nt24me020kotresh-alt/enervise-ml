@@ -1,0 +1,14 @@
+{
+  "best_model_name": "Decision Tree",
+  "r2_score": 0.9724,
+  "rmse": 0.013146,
+  "mae": 0.009127,
+  "baseline_power": 0.192224,
+  "optimized_power": 0.182218,
+  "reduction_pct": 5.21,
+  "optimal_feedrate": 19.1621,
+  "optimal_clamp_pressure": 3.188,
+  "cost_saved_per_machine_year": 31885,
+  "co2_saved_per_machine_year": 3076,
+  "cost_saved_10_machines_year": 318852
+}
