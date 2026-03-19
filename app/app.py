@@ -569,8 +569,7 @@ st.markdown("""
             font-size:0.85rem; padding:10px;'>
     <strong>EnerVise</strong> |
     ML-Driven CNC Energy Optimization |
-    ASM Student Chapter Bengaluru |
-    IEEE Research 2025<br>
+    IEEE Research 2026<br>
     Decision Tree Regressor | R² = 0.9724 |
     Trained on UC Michigan CNC Mill Dataset |
     17,520 Training Samples
