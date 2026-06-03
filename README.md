@@ -12,10 +12,9 @@ energy consumption in CNC machining processes.
 - Energy Reduction: 5.21%
 - Cost Saved: ₹31,885 per machine per year
 - CO₂ Reduced: 3,076 kg per machine per year
-
+- 
 ## Research Team
-Kotresh, Aurko, Parv
-IEEE Research Project 2025
+Kotresh
 
 ## Dataset
 UC Michigan CNC Mill Tool Wear Dataset
